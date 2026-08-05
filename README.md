@@ -25,4 +25,9 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Anmol2627/DSA/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0189-rotate-array](https://github.com/Anmol2627/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/Anmol2627/DSA/tree/main/0283-move-zeroes/) | Easy |
+| [0344-reverse-string](https://github.com/Anmol2627/DSA/tree/main/0344-reverse-string/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0344-reverse-string](https://github.com/Anmol2627/DSA/tree/main/0344-reverse-string/) | Easy |
 <!---LeetCode Topics End-->
