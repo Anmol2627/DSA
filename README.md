@@ -5,6 +5,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Anmol2627/DSA/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anmol2627/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Anmol2627/DSA/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/Anmol2627/DSA/tree/main/0035-search-insert-position/) | Easy |
@@ -75,6 +76,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Anmol2627/DSA/tree/main/0001-two-sum/) | Easy |
 | [0268-missing-number](https://github.com/Anmol2627/DSA/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Anmol2627/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Binary Search
