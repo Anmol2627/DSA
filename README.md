@@ -37,6 +37,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Anmol2627/DSA/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Anmol2627/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Anmol2627/DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0148-sort-list](https://github.com/Anmol2627/DSA/tree/main/0148-sort-list/) | Medium |
 | [0189-rotate-array](https://github.com/Anmol2627/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/Anmol2627/DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/Anmol2627/DSA/tree/main/0344-reverse-string/) | Easy |
@@ -56,6 +57,7 @@
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/Anmol2627/DSA/tree/main/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Anmol2627/DSA/tree/main/0088-merge-sorted-array/) | Easy |
+| [0148-sort-list](https://github.com/Anmol2627/DSA/tree/main/0148-sort-list/) | Medium |
 | [0268-missing-number](https://github.com/Anmol2627/DSA/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Anmol2627/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## String Matching
@@ -105,6 +107,7 @@
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Anmol2627/DSA/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/Anmol2627/DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0148-sort-list](https://github.com/Anmol2627/DSA/tree/main/0148-sort-list/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/Anmol2627/DSA/tree/main/0328-odd-even-linked-list/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
@@ -114,4 +117,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anmol2627/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/Anmol2627/DSA/tree/main/0148-sort-list/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/Anmol2627/DSA/tree/main/0148-sort-list/) | Medium |
 <!---LeetCode Topics End-->
