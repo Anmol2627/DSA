@@ -103,6 +103,7 @@
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Anmol2627/DSA/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/Anmol2627/DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0328-odd-even-linked-list](https://github.com/Anmol2627/DSA/tree/main/0328-odd-even-linked-list/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
