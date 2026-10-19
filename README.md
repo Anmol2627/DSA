@@ -20,6 +20,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Anmol2627/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Anmol2627/DSA/tree/main/0485-max-consecutive-ones/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Anmol2627/DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Anmol2627/DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -63,6 +64,7 @@
 | [0148-sort-list](https://github.com/Anmol2627/DSA/tree/main/0148-sort-list/) | Medium |
 | [0268-missing-number](https://github.com/Anmol2627/DSA/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Anmol2627/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Anmol2627/DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -97,6 +99,7 @@
 | [0035-search-insert-position](https://github.com/Anmol2627/DSA/tree/main/0035-search-insert-position/) | Easy |
 | [0268-missing-number](https://github.com/Anmol2627/DSA/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Anmol2627/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Anmol2627/DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
