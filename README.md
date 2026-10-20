@@ -28,6 +28,7 @@
 | [0009-palindrome-number](https://github.com/Anmol2627/DSA/tree/main/0009-palindrome-number/) | Easy |
 | [0189-rotate-array](https://github.com/Anmol2627/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/Anmol2627/DSA/tree/main/0268-missing-number/) | Easy |
+| [2235-add-two-integers](https://github.com/Anmol2627/DSA/tree/main/2235-add-two-integers/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Anmol2627/DSA/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
